@@ -26,7 +26,7 @@ const PluginsToLoad = [
 
 	// Load the plugins listed above from remote URL
 	for (const pluginName of PluginsToLoad) {
-		await Plugins.load(`https://tgcfabian.github.io/openwebrxplus-plugins/receiver/${pluginName}/${pluginName}.js`);
+		await Plugins.load(`https://tgcfabian.github.io/OpenWebRXPlus-Plugins/receiver/${pluginName}/${pluginName}.js`);
 	}
 })();
 

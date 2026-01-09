@@ -19,7 +19,7 @@ Add this lines in your `init.js` file:
 
 ```js
 await Plugins.load('https://0xaf.github.io/openwebrxplus-plugins/receiver/utils/utils.js');
-await Plugins.load('https://tgcfabian.github.io/openwebrxplus-plugins/receiver/multisdr/multisdr.js');
+await Plugins.load('https://tgcfabian.github.io/OpenWebRXPlus-Plugins/receiver/multisdr/multisdr.js');
 ```
 
 ### Configuration
